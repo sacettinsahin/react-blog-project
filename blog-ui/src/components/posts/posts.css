@@ -1,0 +1,7 @@
+.posts {
+  flex: 9;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 20px;
+}
